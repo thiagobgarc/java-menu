@@ -1,6 +1,6 @@
-# Coffee Menu
+# Java Menu
 
-This project is a simple Command Line Interface (CLI) application written in Java, titled **Coffee Menu**. It’s another quick and simple project created to apply and reinforce the skills I’ve learned on my journey to becoming a Java developer. The application presents a list of coffee options, allows the user to select their preferred coffee, and displays the corresponding price.
+This project is a simple Command Line Interface (CLI) application written in Java, titled **Java Menu**. It’s another quick and simple project created to apply and reinforce the skills I’ve learned on my journey to becoming a Java developer. The application presents a list of coffee options, allows the user to select their preferred coffee, and displays the corresponding price.
 
 ## Features
 
@@ -23,3 +23,4 @@ This project is a simple Command Line Interface (CLI) application written in Jav
    ```bash
    git clone https://github.com/your-username/coffee-menu.git
    cd coffee-menu
+   java main
